@@ -10,3 +10,4 @@ int main() {
 	grade >= 50 ? std::cout << "you passed!" : std::cout << "you failed!";
 
 
+return 0;
